@@ -16,7 +16,7 @@ I had a project where I needed to migrate a shared folder to a shared drive inst
 7. *Google is going to prompt you for authorization at this part, go ahead and click Authorize*
 8. You'll then choose your Google Account from the list
 9. You'll get a warning like so, in transparency this is my first go with app scripts so not sure how to verify, if you know please feel free to submit a pull request on this and we can update these directions. Click `Advanced > Go to [Your Projects Name] (unsafe)`.
-_Note, you will porbably see your email in the blurred part of the image below._
+_Note, you will probably see your email in the blurred part of the image below._
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/3694594/192628104-7ce3c540-a340-4dfd-97d6-b6b9eadc675b.png">
 
 10. You'll now see a prompt for allowing the script to access your Google Drive, *Allow* it
