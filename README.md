@@ -17,7 +17,8 @@ I had a project where I needed to migrate a shared folder to a shared drive inst
 8. You'll then choose your Google Account from the list
 9. You'll get a warning like so, in transparency this is my first go with app scripts so not sure how to verify, if you know please feel free to submit a pull request on this and we can update these directions. Click `Advanced > Go to [Your Projects Name] (unsafe)`.
 _Note, you will probably see your email in the blurred part of the image below._
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/3694594/192628104-7ce3c540-a340-4dfd-97d6-b6b9eadc675b.png">
+<img width="594" alt="Warning showing need to verify the app" src="https://user-images.githubusercontent.com/3694594/192635929-f3dfd33b-ae04-4bf0-88de-051971051996.png">
+
 
 10. You'll now see a prompt for allowing the script to access your Google Drive, *Allow* it
 11. Now repeat step 6 (Click the `List File/Folders > List All Parent/Child Files and Folders` menu item)
@@ -25,7 +26,7 @@ _Note, you will probably see your email in the blurred part of the image below._
 `ex: https://drive.google.com/drive/u/1/folders/[folderIDHere]`
 13. Copy the folder Id and then paste into the prompt's input from you Google Sheet
 14. Give the script a minute or two to run and you should see your things appear, you should see something like so:
-<img width="1567" alt="image" src="https://user-images.githubusercontent.com/3694594/192630090-44e07963-8456-4591-897e-3fee60421b2c.png">
+<img width="1567" alt="Showing what happens after the script run" src="https://user-images.githubusercontent.com/3694594/192630090-44e07963-8456-4591-897e-3fee60421b2c.png">
 
 Thats about it! Now if you are like me, you have the option of also running the `Set Folders Formatting to Bold` menu item from the List Files/Folders menu and you should see any line item that is a folder become bold and have a light grey (#f3f3f3) background.
 
