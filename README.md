@@ -22,7 +22,7 @@ _Note, you will porbably see your email in the blurred part of the image below._
 10. You'll now see a prompt for allowing the script to access your Google Drive, *Allow* it
 11. Now repeat step 6 (Click the `List File/Folders > List All Parent/Child Files and Folders` menu item)
 12. Go to another tab and navigate to a folder in your GDrive and click into that folder, in the navbar you will see the ID for you folder:
-`ex: https://drive.google.com/drive/u/1/folders/[folderIDHere]
+`ex: https://drive.google.com/drive/u/1/folders/[folderIDHere]`
 13. Copy the folder Id and then paste into the prompt's input from you Google Sheet
 14. Give the script a minute or two to run and you should see your things appear, you should see something like so:
 <img width="1567" alt="image" src="https://user-images.githubusercontent.com/3694594/192630090-44e07963-8456-4591-897e-3fee60421b2c.png">
